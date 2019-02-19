@@ -1,0 +1,8 @@
+scipy
+scikit-learn
+gym
+mujoco-py
+matplotlib
+tensorflow-gpu 
+tensorflow-probability
+tqdm
